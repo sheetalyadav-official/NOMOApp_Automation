@@ -1,0 +1,7 @@
+{
+    "locator":{
+    "usernameInput":"//android.widget.EditText[@content-desc='test-Username']",
+    "passwordInput":"//android.widget.EditText[@content-desc='test-Password']",
+    "loginButton":"//android.view.ViewGroup[@content-desc='test-LOGIN']"
+    }
+}

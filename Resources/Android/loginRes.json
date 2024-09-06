@@ -1,0 +1,19 @@
+{
+    "locator":{
+    "swagLabsLogo":"(//*[@class='android.widget.ImageView'])[1]",
+    "roboImageOnLogin":"(//*[@class='android.widget.ImageView'])[2]",
+    "usernameInput":"~test-Username",
+    "passwordInput":"~test-Password",
+    "loginButton":"~test-LOGIN",
+    "errorMessage":"~test-Error message",
+    "usernameInfoTextOnLogin":"//*[@text='The currently accepted usernames for this application are (tap to autofill):']",
+    "passwordInfoTextOnLogin":"//*[@text='And the password for all users is:']",
+    "crossBtnOnUsername":"(//*[@text=''])[1]",
+    "crossBtnOnPassword":"(//*[@text=''])[2]",
+    "productHeaderBar":"~test-Cart drop zone",
+    "standardUsername":"//*[@text='standard_user']",
+    "lockedUsername":"//*[@text='locked_out_user']",
+    "problemUsername":"//*[@text='problem_user']",
+    "defaultPassword":"//*[@text='secret_sauce']"
+    }
+}
